@@ -4,5 +4,4 @@
 - 🌱 Skilled in **Python, C++, JavaScript, ROS2, PLC Logic, and front-end frameworks**, with hands-on experience in **computer vision, robotics, and industrial automation**  
 - 👯 Seeking a **Graduate Software Engineering role** to contribute to innovative and impactful software  
 - 💬 Ask me about **machine learning, AI, embedded systems, or full-stack development**  
-- 📫 Contact: **marcosano.andrea@gmail.com** | +61 0405 969 003 | Sydney, Australia  
 - 😄 Pronouns: **he/him**
