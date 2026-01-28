@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ciao, Come va? 👋
 
 - 🔭 I’m Andrea Marcosano, a Software & Electronics Engineering graduate passionate about **AI, automation, and web development**  
 - 🌱 Skilled in **Python, C++, JavaScript, ROS2, PLC Logic, and front-end frameworks**, with hands-on experience in **computer vision, robotics, and industrial automation**  
